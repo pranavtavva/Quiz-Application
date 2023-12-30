@@ -12,4 +12,4 @@ Lecturer Empowerment:
 Empowered lecturers with the ability to post quizzes, make real-time modifications to questions during ongoing tests, and instantly notify students.
 
 Technology Stack:
-Leveraged a versatile technology stack, including HTML, CSS, JavaScript, PHP, and MySQL, to create a seamless and functional quiz management system.
+Used technology stack including HTML, CSS, JavaScript, PHP, and MySQL, to create a seamless and functional quiz management system.
